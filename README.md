@@ -1,4 +1,4 @@
-```markdown
+
 # SMART EXIT - GatePass Management System
 
 SMART EXIT is a student gatepass management system that enables CBIT students to register, apply for leaves, and receive approvals securely. The system is built using the MERN stack, MongoDB Atlas for cloud database storage, and Nodemailer (Gmail App Password) for OTP verification.
@@ -57,7 +57,7 @@ const EMAIL_USER = "your-email@gmail.com";
 const EMAIL_PASS = "your-app-password";
 ```
 
----
+
 
 ## Running the Project
 
